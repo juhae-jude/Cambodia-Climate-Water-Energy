@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Climate data (too large for GitHub)
+data/
+*.nc
+*.grib2
