@@ -1,0 +1,18 @@
+# Python packages used in this project (install: pip install -r requirements.txt)
+numpy
+pandas
+scipy
+xarray
+matplotlib
+cartopy
+requests
+# CMIP6 (Pangeo cloud catalogue)
+xclim
+zarr
+gcsfs
+# Regions and catchments
+regionmask
+geopandas
+shapely
+# Tests
+pytest
